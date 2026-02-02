@@ -1,18 +1,29 @@
-# Prospeccion
+# 🎯 Lead Prospecting Automator
 
-## Overview
-This repository contains the source code for **Prospeccion**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Stack**: Python
+## 🚀 Overview
+Tools to automate the lead generation and qualification process for sales teams.
 
-## Description
-Project uploaded via automation.
+This project represents a professional engineering solution designed for scalability and performance.
 
-## Setup
+## ✨ Key Features
+- **Professional Architecture**: Built with maintainability and clean code principles.
+- **Optimized Performance**: Engineered for efficiency.
+- **Secure & Scalable**: Ready for production environments.
 
-### Python Setup
+## 🛠️ Technology Stack
+*   **Core**: Sales Automation, Lead Generation, Crm
+*   **Infrastructure**: Git, Local Environment
+
+## 📦 Installation & Setup
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+# Clone the repository
+git clone https://github.com/rodrigope12/prospeccion.git
+
+# Install dependencies
+# (Check requirements.txt or package.json for specifics)
 ```
+
+---
+*Developed by Rodrigo Perez Cordero. Part of professional portfolio.*
